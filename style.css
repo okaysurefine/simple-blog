@@ -1,0 +1,69 @@
+body {
+	background: #5c7088;
+	background: linear-gradient(#96b4bf, #5c7088, #96b4bf);
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+.title {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.btn {
+	margin-top: 30px;
+	text-align: center;
+}
+
+.btn-default {
+	background-color: grey;
+	border-color: grey;
+}
+
+.post {
+	margin-top: 30px;
+	text-align: center;
+}
+
+h1 {
+	color: #343D46;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:visited {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+a:active {
+	text-decoration: none;
+	color: black;
+}
+
+.txt {
+	text-align: center;
+	color: black;
+	margin-top: 20px;
+}
+
+.img {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.add {
+	margin-top: 20px;
+	text-align: center;
+}
